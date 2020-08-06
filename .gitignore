@@ -1,0 +1,12 @@
+
+.vs
+*.db
+*.db
+bin/
+Debug/
+obj/
+x64/
+
+/src/system/result
+.DS_Store
+/result
